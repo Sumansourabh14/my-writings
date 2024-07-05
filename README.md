@@ -29,3 +29,7 @@ Blog at [sumansourabh.in](https://sumansourabh.in)
 - [Medium](https://medium.com/@sumsourabh14)
 - [Dev.to](https://dev.to/sumansourabh48)
 - [Hashnode](https://hashnode.com/@sumansourabh)
+
+## Blog
+
+- [Build an FAQ Page on Nextjs with Material UI](https://sumansourabh.in/build-an-faq-page-on-nextjs-with-material-ui/)
